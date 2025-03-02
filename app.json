@@ -102,7 +102,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "xxx3DFACE"
       
      }, 
 
@@ -129,8 +129,8 @@
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
